@@ -1,0 +1,18 @@
+.head{
+    border: 10px solid red;
+    /* padding: 10px 100px; */
+    padding: 20px 40px 50px 60px;
+    margin: 20px 50px 30px 10px;
+    background-color: lightblue;
+    color:blue;
+}
+
+body {
+    background-color: lightcyan;
+}
+
+.head1 {
+    background-color: aquamarine;
+    border: 5px dashed blueviolet;
+    padding: 20px 30px;
+}
